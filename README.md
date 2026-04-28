@@ -1,3 +1,5 @@
+![Sistema 4C](capa.png)
+
 # Sonic 4C — Bônus Oficial para Compradores do Sistema 4C
 
 Obrigado por adquirir o **Sistema 4C**!
